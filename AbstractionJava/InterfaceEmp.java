@@ -2,7 +2,7 @@ package OOPS.AbstractionJava;
 interface Birds {
     void fly();
 }
-//  can add multile interface , and this supports multiple inheritance
+//  can add multile interface , and this supports multiple inheritance we can add using implements
 class Sparrows implements Birds{
 
     @Override
